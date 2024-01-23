@@ -1,6 +1,8 @@
 
 ### Data feminism: Numbers cannot explain for themselves
 
+#Data feminism introduces several problems people may face when failing to achieve the correctness of data uses. Here are important factors for us to notice for data interpretation and applications. It can be misleading if we fail to utilize data properly.
+
 ## Unveil the Pitfalls of Big Data: applying correctly
 #First, the essay introduces the 2014 Chibok schoolgirls' kidnapping news in Nigeria, which uses the subsequent misleading data published by FiveThirtyEight. The initial report claimed an alarming increase in kidnappings with the terrifying numbers of 3608, but later its statement was retracted due to inaccurate application of GDELT's data. The number of 3608 is the global data of kidnappings instead of being as simply Nigeria’s. This report focused on pretentiousness rather than contextual accuracy, and this should be consistent with the term “Big Dick Data”. The data is correct, but it should not be here as it cannot match the contents exactly. Overall, appropriateness and context in data interpretation are important, and people should avoid common mistakes such as disregarding context, fetishizing size, and exaggerating capabilities. These will question the reliability of the database and raise worries about the trust of media reports.
 
@@ -24,4 +26,4 @@
 ##Restoring Context: Nurturing Context in Data
 #Considering context as a blend of interest and time is essential. People have concerns about power imbalances and inequality in data collection. For instance, WomanStats, incorporating qualitative variables, highlights challenges in capturing complex realities. The question of responsibility for providing context is raised and are seen as vital for cleaning, contextualizing, and verifying data. Besides, we also need significant investment in providing and maintaining context. 
 ##Consider Context: Data Feminism Principle Six
-#Data feminism's sixth principle is understanding the environment and power dynamics in data collection. It emphasizes preventing numbers from speaking for themselves, particularly concerning people, to avoid perpetuating harm. All in all, analyzing power imbalances, acknowledging missing data, and recuperating knowledge are necessary steps. Finally, dedicated funding is crucial to sustain the standard contextual work.
+#Data feminism's sixth principle is understanding the environment and power dynamics in data collection. It emphasizes preventing numbers from speaking for themselves, particularly concerning people to avoid perpetuating harm. All in all, analyzing power imbalances, acknowledging missing data, and recuperating knowledge are necessary steps. Finally, dedicated funding is crucial to sustain the standard contextual work. We should treat data with dedication and remember those mistakes that may take place to provide the accurate analysis.
